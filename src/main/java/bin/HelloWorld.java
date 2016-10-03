@@ -2,6 +2,7 @@ package bin;
 
 public class HelloWorld {
 
+   // getHelloString method
     private static final String getHelloString() {
         return "hello";
     }
